@@ -1,0 +1,8 @@
+.clock { 
+  border: 1px black solid;
+  width: 50%;
+  background: lightgreen;
+  text-align: center;
+  font-size: 5em; }
+
+.center { text-align: center; }
